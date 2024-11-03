@@ -863,6 +863,6 @@ span.u8 {
 .maps {
     width: 1280px;
     max-width: 100%;
-    margin: auto;
+    margin: 0 auto;
     justify-content: stretch;
 }
